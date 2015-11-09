@@ -3,7 +3,7 @@ namespace elgorm\owlcarousel;
 
 use yii\web\AssetBundle;
 
-class AssetTransition extends AssetBundle
+class AssetTransitions extends AssetBundle
 {
     public $sourcePath = '@bower/owlcarousel/owl-carousel';
 
