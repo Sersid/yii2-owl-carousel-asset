@@ -45,7 +45,8 @@ class AppAsset extends AssetBundle
 }
 ```
 
-with Transitions 
+with Transitions
+```php 
 class AppAsset extends AssetBundle
 {
     public $depends = [
