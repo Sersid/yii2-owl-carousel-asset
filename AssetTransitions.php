@@ -1,5 +1,5 @@
 <?php
-namespace sersid\owlcarousel;
+namespace elgorm\owlcarousel;
 
 use yii\web\AssetBundle;
 
