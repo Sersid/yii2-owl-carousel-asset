@@ -13,7 +13,7 @@
     "require": {
       "php": ">=5.4.0",
       "yiisoft/yii2": "*",
-      "bower-asset/OwlCarousel": "*"
+      "bower-asset/OwlCarousel2": "*"
     },
     "autoload": {
       "psr-4": {
