@@ -5,11 +5,11 @@ use yii\web\AssetBundle;
 
 class Asset extends AssetBundle
 {
-    public $sourcePath = '@bower/owlcarousel/owl-carousel';
+    public $sourcePath = '@bower/owl.carousel/dist';
 
     public $css = [
-        'owl.carousel.css',
-        'owl.theme.css',
+        'assets/owl.carousel.css',
+        'assets/owl.theme.css',
     ];
 
     public $depends = [
