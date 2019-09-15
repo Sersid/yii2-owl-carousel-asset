@@ -3,13 +3,14 @@ namespace elgorm\owlcarousel;
 
 use yii\web\AssetBundle;
 
-class Asset extends AssetBundle
+class AssetTransitions extends AssetBundle
 {
-    public $sourcePath = '@bower/owl.carousel/dist';
+    public $sourcePath = '@bower/owlcarousel/owl-carousel';
 
     public $css = [
-        'assets/owl.carousel.css',
-        'assets/owl.theme.css',
+        'owl.carousel.css',
+        'owl.theme.css',
+        'owl.transitions.css',
     ];
 
     public $depends = [

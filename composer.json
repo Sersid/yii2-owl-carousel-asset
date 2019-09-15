@@ -1,13 +1,13 @@
 {
-    "name": "sersid/yii2-owl-carousel-asset",
+    "name": "elgorm/yii2-owl-carousel-asset",
     "description": "Adding OwlCarousel to your Yii2 project via Composer",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","OwlCarousel","owl-carousel","Owl Carousel","yii2-owlCarousel","asset"],
     "license": "BSD-4-Clause",
     "authors": [
       {
-        "name": "Sersid",
-        "email": "sersONEd@gmail.com"
+        "name": "Elgorm",
+        "email": "elgorm@4ml.su"
       }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
       "psr-4": {
-        "sersid\\owlcarousel\\": ""
+        "elgorm\\owlcarousel\\": ""
       }
     }
 }
